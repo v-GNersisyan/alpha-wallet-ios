@@ -44,7 +44,6 @@ target 'AlphaWallet' do # rubocop:disable Metrics/BlockLength
   pod 'FloatingPanel'
   pod 'IQKeyboardManager'
   pod 'InjectHotReload'
-  pod 'SolanaSwift', '~> 5.0.0'
 
   pod 'SwiftLint', '0.50.3', configuration: 'Debug'
   pod 'SwiftFormat/CLI', '~> 0.49', configuration: 'Debug'
