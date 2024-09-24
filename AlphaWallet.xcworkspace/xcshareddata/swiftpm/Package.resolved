@@ -1,14 +1,6 @@
 {
+  "originHash" : "2d395a8f47de70cefd8d9f5d53402c772365e73b2d57287d92a0969cd887781b",
   "pins" : [
-    {
-      "identity" : "inject",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/krzysztofzablocki/Inject",
-      "state" : {
-        "revision" : "838e614220000a563bbaeba2974236f2c2c51e13",
-        "version" : "1.5.0"
-      }
-    },
     {
       "identity" : "qrcode",
       "kind" : "remoteSourceControl",
@@ -16,6 +8,24 @@
       "state" : {
         "revision" : "263f280d2c8144adfb0b6676109846cfc8dd552b",
         "version" : "14.3.1"
+      }
+    },
+    {
+      "identity" : "secp256k1.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Boilertalk/secp256k1.swift.git",
+      "state" : {
+        "revision" : "cd187c632fb812fd93711a9f7e644adb7e5f97f0",
+        "version" : "0.1.7"
+      }
+    },
+    {
+      "identity" : "solana-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/p2p-org/solana-swift.git",
+      "state" : {
+        "revision" : "010a3e3a4cb583ccc3150a04d4270ad37d784ee8",
+        "version" : "5.0.0"
       }
     },
     {
@@ -37,6 +47,24 @@
       }
     },
     {
+      "identity" : "task-retrying-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bigearsenal/task-retrying-swift.git",
+      "state" : {
+        "revision" : "208f1e8dfa93022a7d39ab5b334d5f43a934d4b1",
+        "version" : "2.0.0"
+      }
+    },
+    {
+      "identity" : "tweetnacl-swiftwrap",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bitmark-inc/tweetnacl-swiftwrap.git",
+      "state" : {
+        "revision" : "f8fd111642bf2336b11ef9ea828510693106e954",
+        "version" : "1.1.0"
+      }
+    },
+    {
       "identity" : "walletconnectswiftv2",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/WalletConnect/WalletConnectSwiftV2",
@@ -46,5 +74,5 @@
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
